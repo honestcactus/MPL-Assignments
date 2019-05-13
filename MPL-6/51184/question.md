@@ -1,1 +1,1 @@
-
+Store four file objects corresponding to the files winter2003.txt , spring2003.txt, summer2003.txt, and fall2003.txt in the variables winter, spring, summer, and fall (respectively), and open them all for reading.

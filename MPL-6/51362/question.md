@@ -1,1 +1,1 @@
-
+Two variables, x and y, supposedly hold strings of digits. Write code that converts these to integers and assigns a variable z the sum of these two integers. Make sure that if either x and y has bad data (that is, not a string of digits), z will be assigned the value of -1. 

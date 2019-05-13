@@ -1,1 +1,1 @@
-
+Given four files named asiasales2009.txt, europesales2009.txt, africasales2009.txt, and latinamericasales2009.txt, define four file objects named asia, europe, africa, and latin, and use them, respectively, to open the four files for writing. 
