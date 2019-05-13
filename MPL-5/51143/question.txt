@@ -1,0 +1,1 @@
+Assume that print_todays_date is a function that uses no parameters and returns no value. Write a statement that calls (invokes) this function.

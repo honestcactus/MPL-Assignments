@@ -1,0 +1,3 @@
+Assume that to_the_power_of is a function that expects two int parameters and returns the value of the first parameter raised to the power of the second parameter.
+
+Write a statement that calls to_the_power_of to compute the value of cube_side raised to the power of 3 and that associates this value with cube_volume.
