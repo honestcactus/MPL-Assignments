@@ -1,0 +1,1 @@
+Variables i and j each have associated values. Swap them, so that i becomes associated with j's original value, and j becomes associated with is original value. You can use two more variables itemp and jtemp.

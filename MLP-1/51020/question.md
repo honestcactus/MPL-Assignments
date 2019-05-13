@@ -1,0 +1,1 @@
+Assign the average of the values in the variables a, b, and c to a variable avg. Assume that the variables a, b, and c have already been assigned a value, but do not assume that the values are all floating-point. The average should be a floating-point value.
