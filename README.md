@@ -10,4 +10,4 @@ MyLab Programming: [https://www.pearsonmylabandmastering.com/]
 
 Starting Out with Python 4e: [https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-Plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-4th-Edition/PGM335157.html]
 
-Book Problems Help: [https://www.slader.com/textbook/9780133862256-starting-out-with-python-plus-myprogramminglab-with-pearson-etext-access-card-package-3rd-edition/]
+Book Problems Help: [https://www.slader.com/textbook/9780134444321-starting-out-with-python-4th-edition/]
