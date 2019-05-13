@@ -9,3 +9,5 @@ Try to do the assignments yourself first!! You won't learn anything by copying a
 MyLab Programming: [https://www.pearsonmylabandmastering.com/]
 
 Starting Out with Python 4e: [https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-Plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-4th-Edition/PGM335157.html]
+
+Book Problems Help: [https://www.slader.com/textbook/9780133862256-starting-out-with-python-plus-myprogramminglab-with-pearson-etext-access-card-package-3rd-edition/]
