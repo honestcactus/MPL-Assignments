@@ -1,0 +1,10 @@
+Given the already defined variables is_full_time_student and age, write an expression that evaluates to True if age is less than 19 or is_full_time_student is True.
+
+
+Instructor Notes:
+Hint:
+
+When checking a boolean variable, the following 2 expressions evalaute the same:
+
+is_OK == True
+is_OK

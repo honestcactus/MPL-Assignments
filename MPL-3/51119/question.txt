@@ -1,0 +1,1 @@
+Write an if/else statement that compares sold_yesterday and sold_today, and based upon that comparison assigns sales_trend the value -1 (the case where sold_yesterday is greater than sold_today) or 1.
