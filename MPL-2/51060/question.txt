@@ -1,0 +1,1 @@
+Given an int variable gross_pay, write an expression that evaluates to True if and only if gross_pay is less than 10,000.

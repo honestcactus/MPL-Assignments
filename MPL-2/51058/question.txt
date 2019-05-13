@@ -1,0 +1,1 @@
+Given the variables number_of_men and number_of_women, write an expression that evaluates to True if the number of men is greater than or equal to the number of women.
